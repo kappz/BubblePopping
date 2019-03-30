@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SeansAssets/Scenes/mainMenu.unity
+  isLoaded: 1
+  isActive: 1

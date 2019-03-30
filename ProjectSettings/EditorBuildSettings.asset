@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/SeansAssets/Scenes/mainMenu.unity
+    guid: b01a6a3132aa44d7db8b12f535ff9f29
+  - enabled: 1
+    path: Assets/SeansAssets/Scenes/HarpoonGame_EASY.unity
+    guid: 0ee28666d4a2f4c458441a143f2af2b5
+  - enabled: 1
+    path: Assets/SeansAssets/Scenes/HarpoonGame_NORMAL.unity
+    guid: ae9caefa5788b1e4a9aceaa2891cfe37
+  - enabled: 1
+    path: Assets/SeansAssets/Scenes/HarpoonGame_HARD.unity
+    guid: 0091b066d38002945be37134c1b7e6d7
+  - enabled: 1
+    path: Assets/SeansAssets/Scenes/HarpoonGame_Multi.unity
+    guid: ec2bc89522a244e4aae54dfd03826d69
+  - enabled: 1
+    path: Assets/Game_Bubblepop/Singleplayer/Scenes/Game_BubblePopHard.unity
+    guid: f41a7aa602f684efa921c338fc8849cb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/BugZapEasy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/BugZapEasy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/ZapOldMultiplayer.unity
+    guid: e99b5f9fc5a64f24c95d9af7b1d2c880
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Game_Bubblepop/Singleplayer/Scenes/Game_BubblePopMedium.unity
+    guid: 68b748d62bc49d14f983bb0b493e1f4d
+  - enabled: 1
+    path: Assets/Game_Bubblepop/Multiplayer/Game_BubblePopMultiplayer.unity
+    guid: 95c6164ace8912642866aaa06b16fcd5
+  - enabled: 1
+    path: Assets/Game_Bubblepop/Singleplayer/Scenes/Game_BubblePopEasy.unity
+    guid: ad36a3e3e69302c42be2f8bc37490c03
+  - enabled: 1
+    path: Assets/Scenes/BugZapMedium.unity
+    guid: 14abbc5b918b94e4789fa5dc8c65f529
+  - enabled: 1
+    path: Assets/Scenes/BugZapHard.unity
+    guid: 77b767e1315f113449eb6d9a8935e9aa
+  - enabled: 1
+    path: Assets/Scenes/ZapMultiplayer.unity
+    guid: fde807e61bb5ccc41a48167fe48b2fb3
+  m_configObjects: {}
